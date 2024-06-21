@@ -1,3 +1,5 @@
+#Energy Controller
+
 ---- English -----
 
 The **Energy Controller** project is an advanced IoT-based solution designed to monitor and optimize energy consumption in industrial settings, including both production chains and electric vehicle charging. Central to this project is a custom-designed PCB featuring an ESP32 microcontroller programmed in C++, which integrates with web and mobile clients for sophisticated energy monitoring.
